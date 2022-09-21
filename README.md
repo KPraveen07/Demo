@@ -1,3 +1,3 @@
-This is an Instruction File.
+This is an Instruction File
 Summary
 Project Layout
