@@ -1,0 +1,2 @@
+To push a file from pc to git hub
+>>>>> git push origin main <<<<<<<
